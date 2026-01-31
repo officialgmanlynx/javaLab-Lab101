@@ -1,0 +1,7 @@
+type,id,name,title,pay
+Salaried,85,Al,Manager,60000
+Hourly,294,Kelly,Hostess,25.75
+Salaried,143,Peggy,CEO,120000
+Hourly,582,Bud,Busboy,15.00
+Hourly,371,Marcy,Server,10.00
+Hourly,841,Jefferson,Cook,35.00
